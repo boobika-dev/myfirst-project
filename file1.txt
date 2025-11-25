@@ -2,4 +2,4 @@ this is the second version
 
 
 
-adding some content from github
+adding some content from git
